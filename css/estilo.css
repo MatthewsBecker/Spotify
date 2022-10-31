@@ -37,17 +37,14 @@ nav.navbar-transparente {
 
 
 .capa {
-	text-align: center;
+	justify-content: end;
 }
 
 .btn-custom {
 	color: white;
-	border-radius: 500px;
-	-webkit-border-radius: 500px;
-    -moz-border-radius: 500px;
     text-transform: uppercase;
-    transition: background 0.4s, color 0.4s;
-    padding: 10px 20px;
+    transition: background 0.1s, color 0.4s;
+    padding: 100px 200px;
 }
 
 .btn-roxo {
